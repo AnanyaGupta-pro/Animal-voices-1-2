@@ -1,0 +1,39 @@
+#note{
+    letter-spacing: 2px;
+    font-style: italic;
+}
+header{
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+    font-weight: bold;
+    color: #868B8E;
+    text-shadow: 5px 5px 5px white;
+}
+.div1{
+    background-color:#E7D2CC ;
+}
+body{
+    background-color: #EEEDE7;
+}
+button{
+    background-color: #B9B7BD;
+    color: white;
+    width: 110px;
+    font-size: large;
+    box-shadow: 5px 5px #E7D2CC;
+}
+#copyright_footer{
+    background-color: #868B8E;
+    position: fixed;
+    width: 100%;
+    line-height: 50px;
+    text-shadow: 5px 5px 5px #E7D2CC ;
+    bottom: 0%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
